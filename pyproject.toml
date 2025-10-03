@@ -98,6 +98,9 @@ ignore_errors = true
 [tool.pytest.ini_options]
 minversion = "6.0"
 addopts = "-ra -q"
+markers = [
+    "slow: marks tests as slow (deselect with '-m \"not slow\"')",
+]
 testpaths = [
     "tests",
 ]
