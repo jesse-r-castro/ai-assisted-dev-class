@@ -38,7 +38,7 @@ The CSV Storyteller Dashboard is a local-first Python/Streamlit web application 
 - **Distribution Summary**: Min, max, quartiles for numerical data
 
 ### 3.3 Visualization
-- **Auto-Generated Charts**: 
+- **Auto-Generated Charts**:
   - Histograms for numerical columns
   - Bar charts for categorical columns (top 10 values)
   - Correlation heatmap for numerical columns
@@ -199,7 +199,7 @@ class AppConfig:
 ### Sample Test Datasets
 ```csv
 # test_sales.csv - 1000 rows with sales data
-# test_survey.csv - 500 rows with Likert scale responses  
+# test_survey.csv - 500 rows with Likert scale responses
 # test_malformed.csv - Invalid CSV for error testing
 ```
 
