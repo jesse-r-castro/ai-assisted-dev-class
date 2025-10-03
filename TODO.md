@@ -4,9 +4,6 @@
 
 ### Project Setup and Infrastructure
 
-**feat: Initialize project structure and dependencies**
-As a developer, I need a properly configured Python project with all necessary dependencies so that I can begin implementing the CSV Storyteller Dashboard features. This includes creating the folder structure, requirements.txt with pinned versions, basic configuration files, and ensuring the project can be set up in a virtual environment.
-
 **feat: Configure pre-commit hooks and code quality tools**
 As a developer, I need automated code quality checks so that the codebase maintains consistent formatting and security standards. This includes setting up black, ruff, detect-secrets, and pre-commit configuration to run automatically on git commits.
 
