@@ -4,9 +4,6 @@
 
 ### Project Setup and Infrastructure
 
-**feat: Configure pre-commit hooks and code quality tools**
-As a developer, I need automated code quality checks so that the codebase maintains consistent formatting and security standards. This includes setting up black, ruff, detect-secrets, and pre-commit configuration to run automatically on git commits.
-
 **feat: Create Docker containerization setup**
 As a deployment engineer, I need a working Docker container so that the application can be deployed consistently across different environments. This includes creating a Dockerfile with proper Python base image, dependency installation, and Streamlit startup configuration.
 
